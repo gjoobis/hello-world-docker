@@ -2,5 +2,7 @@
 ## Для проверки
 - ```console
   $ docker build -t test .
+  ```
+- ```console
   $ docker run test
   ```
